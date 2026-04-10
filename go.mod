@@ -1,4 +1,4 @@
-module github.com/yagofontanez/repomind
+module github.com/yagofontanez/repomind-cli
 
 go 1.26.1
 

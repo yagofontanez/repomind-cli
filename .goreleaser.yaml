@@ -47,6 +47,6 @@ changelog:
 release:
   github:
     owner: yagofontanez
-    name: repomind
+    name: repomind-cli
   draft: false
   prerelease: auto

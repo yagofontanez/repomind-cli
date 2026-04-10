@@ -8,8 +8,8 @@ import (
 
 	"github.com/pkg/browser"
 	"github.com/spf13/cobra"
-	"github.com/yagofontanez/repomind/internal/api"
-	"github.com/yagofontanez/repomind/internal/reader"
+	"github.com/yagofontanez/repomind-cli/internal/api"
+	"github.com/yagofontanez/repomind-cli/internal/reader"
 )
 
 var repo string
